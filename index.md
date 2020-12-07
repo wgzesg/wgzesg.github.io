@@ -1,17 +1,19 @@
 ## My Journey
 
 
-###[RoboRampage](/sample_page)
-####May-Aug 2020
+###[RoboRampage](/sample_page)<br>
+May-Aug 2020
 <img src="images/dummy_thumbnail.jpg?raw=true"/><br>
 This is a multiplayer first person shooting game developed with Unity and PhotonNetwork Engine.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+###[Schwarzenegger](https://ay2021s1-cs2113t-f11-1.github.io/tp/)
+Sept-Nov 2020
+<img src="images/dummy_thumbnail.jpg?raw=true"/><br>
+This is a Java CLI program which aim to help users track gym workout and diet.
 
 ---
-[Project 3 Title](http://example.com/)
+[Nanny's wheelchair](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
